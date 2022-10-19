@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bharath8112002@gmail.com**
 
-[![Bharath's github activity graph](https://activity-graph.herokuapp.com/graph?username=mr-melody&theme=dracula)](https://github.com/mr-melody/github-readme-activity-graph)
+[![Bharath's github activity graph](https://activity-graph.herokuapp.com/graph?username=mr-melody&theme=react-dark)](https://github.com/mr-melody/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
